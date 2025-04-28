@@ -10,14 +10,11 @@
         <mxCell id="20_lXz4FWRhDt1doqr_G-2" value="初始化串口配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="115" y="119" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="20_lXz4FWRhDt1doqr_G-3" value="等待GPS数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="125" y="217" width="151" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="20_lXz4FWRhDt1doqr_G-4" value="接收并解析GPS数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="184" y="316" width="199" height="49" as="geometry" />
+          <mxGeometry x="100" y="220" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="20_lXz4FWRhDt1doqr_G-5" value="更新显示模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="206" y="415" width="156" height="49" as="geometry" />
+          <mxGeometry x="121.5" y="320" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="20_lXz4FWRhDt1doqr_G-6" value="判断是否在安全区域" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="188" y="513" width="193" height="193" as="geometry" />
@@ -39,16 +36,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="20_lXz4FWRhDt1doqr_G-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="20_lXz4FWRhDt1doqr_G-2" target="20_lXz4FWRhDt1doqr_G-3">
+        <mxCell id="20_lXz4FWRhDt1doqr_G-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="20_lXz4FWRhDt1doqr_G-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="20_lXz4FWRhDt1doqr_G-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="20_lXz4FWRhDt1doqr_G-3" target="20_lXz4FWRhDt1doqr_G-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="284" y="291" />
-            </Array>
+            <mxPoint x="200.49999999999977" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="20_lXz4FWRhDt1doqr_G-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="20_lXz4FWRhDt1doqr_G-4" target="20_lXz4FWRhDt1doqr_G-5">
