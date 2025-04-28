@@ -43,6 +43,9 @@
         <mxCell id="uvKXNKg3CXg_Leubk0M0-9" value="滑动平均滤波" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="144" y="780" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="uvKXNKg3CXg_Leubk0M0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-10" target="uvKXNKg3CXg_Leubk0M0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-10" value="速度&gt;安全阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="131" y="870" width="182" height="182" as="geometry" />
         </mxCell>
@@ -50,7 +53,7 @@
           <mxGeometry x="122.5" y="1110" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="372" y="1279" width="92" height="49" as="geometry" />
+          <mxGeometry x="176" y="1200" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-1" target="uvKXNKg3CXg_Leubk0M0-2">
           <mxGeometry relative="1" as="geometry">
@@ -77,11 +80,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uvKXNKg3CXg_Leubk0M0-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-10" target="uvKXNKg3CXg_Leubk0M0-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-11" target="uvKXNKg3CXg_Leubk0M0-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -95,6 +93,9 @@
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-31" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="438" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uvKXNKg3CXg_Leubk0M0-34" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="178" y="565" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
