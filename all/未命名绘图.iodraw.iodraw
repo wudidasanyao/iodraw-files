@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="6mW6gzwY-KBiFFsiNxai">
-    <mxGraphModel dx="2061" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,9 +33,6 @@
         </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-10" value="更新显示信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="373" y="795" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-11" target="jVTnAEmhSE8E0OJqxEUX-32">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-11" value="检测按键输入" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="893" width="145" height="145" as="geometry" />
@@ -77,14 +74,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-21" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-6" target="jVTnAEmhSE8E0OJqxEUX-7">
-          <mxGeometry x="-0.0612" y="-125" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="115" y="758" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-7" target="jVTnAEmhSE8E0OJqxEUX-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -97,23 +86,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-24" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-6" target="jVTnAEmhSE8E0OJqxEUX-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="436" y="758" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-10" target="jVTnAEmhSE8E0OJqxEUX-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-26" value="有按键输入" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-11" target="jVTnAEmhSE8E0OJqxEUX-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="323" y="1074" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.88;entryY=0;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-12" target="jVTnAEmhSE8E0OJqxEUX-9">
@@ -127,17 +102,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="1310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="407" y="1310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-32" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;无按键输入&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347" y="1221" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
