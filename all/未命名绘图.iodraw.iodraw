@@ -17,10 +17,10 @@
           <mxGeometry x="29" y="1110" width="222" height="133" as="geometry" />
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-6" value="从主控模块获&#xa;取骑行数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="19.5" y="1284.5" width="230.5" height="115.5" as="geometry" />
+          <mxGeometry x="23.75" y="1284.5" width="230.5" height="115.5" as="geometry" />
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-7" value="数据处理与&#xa;格式转换" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="45" y="1788" width="188" height="49" as="geometry" />
+          <mxGeometry x="46" y="1480" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-8" value="更新OLED&#xa;显示内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36" y="1887" width="208" height="49" as="geometry" />
