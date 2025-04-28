@@ -38,6 +38,9 @@
         <mxCell id="x5CqXyvgyqEQTlWHovOF-11" value="姿态超出安&#xa;全范围?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="623.75" y="1610" width="164.5" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="x5CqXyvgyqEQTlWHovOF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-12" target="x5CqXyvgyqEQTlWHovOF-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-12" value="改变报警标志" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="617" y="1738" width="178" height="49" as="geometry" />
         </mxCell>
@@ -62,7 +65,10 @@
           <mxGeometry x="646" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-35" value="触发报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1860" width="120" height="40" as="geometry" />
+          <mxGeometry x="648" y="1830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x5CqXyvgyqEQTlWHovOF-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-35" target="x5CqXyvgyqEQTlWHovOF-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
