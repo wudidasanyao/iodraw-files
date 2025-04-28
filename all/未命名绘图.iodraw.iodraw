@@ -17,10 +17,10 @@
           <mxGeometry x="418" y="1407" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-5" value="转换信号为数字值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="414" y="1500" width="158" height="49" as="geometry" />
+          <mxGeometry x="418.5" y="1500" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-6" value="判断数字值是否低于亮度阈值" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="364" y="1590" width="206" height="130" as="geometry" />
+          <mxGeometry x="394" y="1580" width="206" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-7" value="开启自行车照明设备" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="220" y="1936" width="174" height="49" as="geometry" />
@@ -84,14 +84,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="415" y="2108" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HZP_qGFGlTy_Es2Wc_xb-21" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.08;entryX=1;entryY=0.99;rounded=0;" edge="1" parent="1" source="HZP_qGFGlTy_Es2Wc_xb-10" target="HZP_qGFGlTy_Es2Wc_xb-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="662" y="2108" />
-              <mxPoint x="662" y="1481" />
             </Array>
           </mxGeometry>
         </mxCell>
