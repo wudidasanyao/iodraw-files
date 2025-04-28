@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-11" value="姿态超出安&#xa;全范围?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="611" y="1600" width="197" height="107" as="geometry" />
+          <mxGeometry x="610.5" y="1610" width="197" height="107" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-12" value="触发报警,&#xa;发送信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="620" y="1754" width="178" height="49" as="geometry" />
