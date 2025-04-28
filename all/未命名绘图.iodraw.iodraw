@@ -64,8 +64,11 @@
         <mxCell id="x5CqXyvgyqEQTlWHovOF-32" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;采集加速度数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="646" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x5CqXyvgyqEQTlWHovOF-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-35" target="x5CqXyvgyqEQTlWHovOF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-35" value="触发报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="648" y="1830" width="120" height="40" as="geometry" />
+          <mxGeometry x="646" y="1840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-35" target="x5CqXyvgyqEQTlWHovOF-35">
           <mxGeometry relative="1" as="geometry" />
