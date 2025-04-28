@@ -78,6 +78,9 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-53" value="处理按键交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="860" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-54" target="jVTnAEmhSE8E0OJqxEUX-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-54" value="按键按下？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="750" width="80" height="80" as="geometry" />
         </mxCell>
