@@ -13,9 +13,6 @@
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-4" value="配置工作模式、波特率等参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="282" y="1056" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-5" value="等待主控单片机数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="312" y="1172" width="193" height="193" as="geometry" />
-        </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-6" value="发送心跳包" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36" y="1545" width="140" height="49" as="geometry" />
         </mxCell>
@@ -60,16 +57,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-4" target="tf_cHwgKxa5hmhAesZ0l-5">
+        <mxCell id="tf_cHwgKxa5hmhAesZ0l-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-21" value="有数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-5" target="tf_cHwgKxa5hmhAesZ0l-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="629" y="1401" />
-            </Array>
+            <mxPoint x="408.5" y="1172" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-6" target="tf_cHwgKxa5hmhAesZ0l-8">
