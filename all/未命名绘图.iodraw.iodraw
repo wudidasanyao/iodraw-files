@@ -40,7 +40,7 @@
         <mxCell id="AL3Opk2ly5-EwqsYybYR-11" value="多次测量&#xa;取平均值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="796" y="2070" width="94" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="AL3Opk2ly5-EwqsYybYR-12" value="距离" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="AL3Opk2ly5-EwqsYybYR-12" value="距离超限？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="797.5" y="2180" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-13" value="触发报警,&#xa;发送信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
