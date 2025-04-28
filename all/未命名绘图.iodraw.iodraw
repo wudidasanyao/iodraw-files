@@ -16,17 +16,14 @@
         <mxCell id="wzzbIjbFynQ9duI6u01I-4" value="配置TP4056充电参数" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="148" y="1257" width="178" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-9" value="电压转换控制" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="284" y="1825" width="126" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-10" value="控制LM2596降压至5V" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="256" y="1946" width="181" height="49" as="geometry" />
+          <mxGeometry x="146.5" y="1360" width="181" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-11" value="控制AMS1117稳压至3.3V" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="245" y="2045" width="204" height="49" as="geometry" />
+          <mxGeometry x="135" y="1460" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-12" value="周期性检测输出电压" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="260" y="2144" width="174" height="49" as="geometry" />
+          <mxGeometry x="146.5" y="1580" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-13" value="电压异常?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="356" y="2242" width="119" height="119" as="geometry" />
@@ -57,11 +54,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="236.5" y="1356" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-9" target="wzzbIjbFynQ9duI6u01I-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-10" target="wzzbIjbFynQ9duI6u01I-11">
