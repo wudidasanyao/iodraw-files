@@ -119,34 +119,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-28" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-11" target="jVTnAEmhSE8E0OJqxEUX-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-29" value="" style="curved=1;startArrow=none;endArrow=none;exitX=Infinity;exitY=Infinity;entryX=Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-14" target="jVTnAEmhSE8E0OJqxEUX-15">
-          <mxGeometry x="1" y="118" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="436" y="1196" />
-            </Array>
-            <mxPoint x="-22" y="138" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=Infinity;exitY=Infinity;entryX=0.78;entryY=1;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-15" target="jVTnAEmhSE8E0OJqxEUX-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="498" y="1196" />
-              <mxPoint x="498" y="1074" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-9" target="jVTnAEmhSE8E0OJqxEUX-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1210" width="120" height="60" as="geometry" />
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-32" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;无按键输入&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
