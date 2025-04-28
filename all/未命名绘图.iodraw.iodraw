@@ -124,7 +124,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-29" value="无按键输入" style="curved=1;startArrow=none;endArrow=none;exitX=Infinity;exitY=Infinity;entryX=Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-14" target="jVTnAEmhSE8E0OJqxEUX-15">
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-29" value="" style="curved=1;startArrow=none;endArrow=none;exitX=Infinity;exitY=Infinity;entryX=Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-14" target="jVTnAEmhSE8E0OJqxEUX-15">
           <mxGeometry x="1" y="118" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="436" y="1196" />
