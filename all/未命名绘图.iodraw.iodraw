@@ -11,19 +11,19 @@
           <mxGeometry x="794" y="1050" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-3" value="初始化&#xa;操作" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="801" y="1150" width="78" height="66" as="geometry" />
+          <mxGeometry x="802.5" y="1260" width="78" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-4" target="AL3Opk2ly5-EwqsYybYR-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-4" value="配置超声&#xa;波传感器" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="793" y="1280" width="94" height="66" as="geometry" />
+          <mxGeometry x="795" y="1370" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-6" value="触发超声&#xa;波发射" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="795" y="1450" width="94" height="66" as="geometry" />
+          <mxGeometry x="795" y="1500" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-7" value="启动定时&#xa;器计时" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="795" y="1570" width="94" height="66" as="geometry" />
+          <mxGeometry x="794.5" y="1600" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-8" target="AL3Opk2ly5-EwqsYybYR-9">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="843" y="2411.2260910560344" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="960" y="1745" />
+              <mxPoint x="960" y="1765" />
               <mxPoint x="960" y="2411" />
             </Array>
           </mxGeometry>
