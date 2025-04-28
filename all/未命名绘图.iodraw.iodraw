@@ -17,7 +17,7 @@
           <mxGeometry x="760" y="1155" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-6" value="触发超声&#xa;波发射" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="610" y="1370" width="94" height="66" as="geometry" />
+          <mxGeometry x="791" y="1370" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-7" value="启动定时&#xa;器计时" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="610" y="1486" width="94" height="66" as="geometry" />
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-14" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="704" y="2424" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="AL3Opk2ly5-EwqsYybYR-15" value="继续循环" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="734" y="1814" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-2" target="AL3Opk2ly5-EwqsYybYR-3">
           <mxGeometry relative="1" as="geometry">
@@ -109,33 +106,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AL3Opk2ly5-EwqsYybYR-27" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.21;entryX=0.85;entryY=1;rounded=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="863" y="2129" />
-              <mxPoint x="863" y="1345" />
-            </Array>
-            <mxPoint x="834.3000000000002" y="1320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-13" target="AL3Opk2ly5-EwqsYybYR-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AL3Opk2ly5-EwqsYybYR-29" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=1.01;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-8" target="AL3Opk2ly5-EwqsYybYR-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="729" y="1769" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AL3Opk2ly5-EwqsYybYR-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0;entryX=0.5;entryY=1;rounded=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="807" y="1769" />
-            </Array>
-            <mxPoint x="807" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
