@@ -19,7 +19,7 @@
         <mxCell id="x5CqXyvgyqEQTlWHovOF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-10" target="x5CqXyvgyqEQTlWHovOF-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x5CqXyvgyqEQTlWHovOF-10" value="实现姿态&#xa;融合算法" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="x5CqXyvgyqEQTlWHovOF-10" value="计算是否倾斜" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="620" y="1520" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-11" target="x5CqXyvgyqEQTlWHovOF-12">
