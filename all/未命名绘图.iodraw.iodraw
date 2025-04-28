@@ -10,8 +10,11 @@
         <mxCell id="wzzbIjbFynQ9duI6u01I-36" value="检测各模块数据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="101" y="119" width="158" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="wzzbIjbFynQ9duI6u01I-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-37" target="wzzbIjbFynQ9duI6u01I-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-37" value="超出安全阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="88.5" y="200" width="183" height="83" as="geometry" />
+          <mxGeometry x="88.5" y="220" width="183" height="83" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-38" value="触发报警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="117" y="330" width="126" height="49" as="geometry" />
@@ -40,6 +43,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wzzbIjbFynQ9duI6u01I-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-36" target="wzzbIjbFynQ9duI6u01I-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
