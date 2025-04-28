@@ -22,7 +22,7 @@
         <mxCell id="AL3Opk2ly5-EwqsYybYR-6" value="触发超声&#xa;波发射" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="795" y="1500" width="94" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="AL3Opk2ly5-EwqsYybYR-7" value="启动定时&#xa;器计时" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="AL3Opk2ly5-EwqsYybYR-7" value="启动定时&#xa;器计时" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="794.5" y="1600" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-8" target="AL3Opk2ly5-EwqsYybYR-9">
@@ -40,7 +40,7 @@
         <mxCell id="AL3Opk2ly5-EwqsYybYR-8" value="接收到反&#xa;射波?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="778" y="1700" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="AL3Opk2ly5-EwqsYybYR-9" value="读取定时&#xa;器计数值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="AL3Opk2ly5-EwqsYybYR-9" value="读取定时&#xa;器计数值" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="796" y="1891" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-10" value="计算距&#xa;离" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
