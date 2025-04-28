@@ -60,7 +60,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-66" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="104.5" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="125" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzzbIjbFynQ9duI6u01I-67" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
