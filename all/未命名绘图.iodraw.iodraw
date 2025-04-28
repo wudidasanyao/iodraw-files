@@ -62,12 +62,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AL3Opk2ly5-EwqsYybYR-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="807" y="1271" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-6" target="AL3Opk2ly5-EwqsYybYR-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -92,6 +86,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AL3Opk2ly5-EwqsYybYR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.489;entryY=0.105;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-4" target="AL3Opk2ly5-EwqsYybYR-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
