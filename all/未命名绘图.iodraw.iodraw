@@ -11,13 +11,7 @@
           <mxGeometry x="660" y="930" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-4" value="初始化&#xa;操作" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="644" y="1029" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="x5CqXyvgyqEQTlWHovOF-6" value="设置陀螺&#xa;仪参数" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="628" y="1226" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="x5CqXyvgyqEQTlWHovOF-8" value="读取陀螺仪角&#xa;速度数据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="604" y="1330" width="204" height="49" as="geometry" />
+          <mxGeometry x="644" y="1280" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-9" value="对角速度数据&#xa;进行积分" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="604" y="1430" width="204" height="49" as="geometry" />
@@ -50,29 +44,6 @@
           <mxGeometry x="660" y="1860" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-3" target="x5CqXyvgyqEQTlWHovOF-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x5CqXyvgyqEQTlWHovOF-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="706" y="1127.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x5CqXyvgyqEQTlWHovOF-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="x5CqXyvgyqEQTlWHovOF-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="706" y="1176.0000000000005" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x5CqXyvgyqEQTlWHovOF-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="705.4999999999995" y="1325" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x5CqXyvgyqEQTlWHovOF-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-8" target="x5CqXyvgyqEQTlWHovOF-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
