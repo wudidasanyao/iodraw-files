@@ -16,17 +16,20 @@
         <mxCell id="wzzbIjbFynQ9duI6u01I-37" value="超出安全阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="88.5" y="220" width="183" height="83" as="geometry" />
         </mxCell>
+        <mxCell id="wzzbIjbFynQ9duI6u01I-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-38" target="wzzbIjbFynQ9duI6u01I-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-38" value="触发报警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="117" y="330" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-39" value="发送控制信号至蜂鸣器" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="85" y="410" width="190" height="49" as="geometry" />
+          <mxGeometry x="85" y="420" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-40" value="蜂鸣器发出报警声" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="101" y="510" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-41" value="异常情况解除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="104.5" y="585" width="151" height="111" as="geometry" />
+          <mxGeometry x="108" y="590" width="151" height="81" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-42" value="停止报警声" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="125" y="730" width="110" height="49" as="geometry" />
