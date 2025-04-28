@@ -14,7 +14,7 @@
           <mxGeometry x="88.5" y="200" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-38" value="触发报警机制" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="117" y="496" width="126" height="49" as="geometry" />
+          <mxGeometry x="117.5" y="440" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-39" value="发送控制信号至蜂鸣器" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="20" y="594" width="190" height="49" as="geometry" />
@@ -69,14 +69,6 @@
         <mxCell id="wzzbIjbFynQ9duI6u01I-53" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-41" target="wzzbIjbFynQ9duI6u01I-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-54" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0.75;entryY=0.98;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-41" target="wzzbIjbFynQ9duI6u01I-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="245" y="789" />
-              <mxPoint x="245" y="569" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-42" target="wzzbIjbFynQ9duI6u01I-43">
