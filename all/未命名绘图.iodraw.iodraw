@@ -30,7 +30,7 @@
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="1030" as="targetPoint" />
+            <mxPoint x="220" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-6" value="继续循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
           <mxGeometry x="142.5" y="860" width="159" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-11" value="触发报警, 发送信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="1040" width="199" height="49" as="geometry" />
+          <mxGeometry x="122.5" y="1010" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="176" y="1120" width="92" height="49" as="geometry" />
