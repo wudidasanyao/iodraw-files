@@ -52,13 +52,8 @@
         <mxCell id="uvKXNKg3CXg_Leubk0M0-11" value="触发报警, 发送信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="122.5" y="1040" width="199" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="uvKXNKg3CXg_Leubk0M0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="239.99999999999977" y="1149.9999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="176" y="1200" width="92" height="49" as="geometry" />
+          <mxGeometry x="176" y="1120" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-1" target="uvKXNKg3CXg_Leubk0M0-2">
           <mxGeometry relative="1" as="geometry">
