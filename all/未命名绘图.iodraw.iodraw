@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="20" width="92" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-2" value="系统初始化" style="rounded=;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="236" y="129" width="80" height="30" as="geometry" />
         </mxCell>
@@ -22,8 +19,10 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-6" value="判断数据是否超出阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="196.75" y="501" width="158.5" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-1" target="jVTnAEmhSE8E0OJqxEUX-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="jVTnAEmhSE8E0OJqxEUX-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275.0612244897959" y="69" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-2" target="jVTnAEmhSE8E0OJqxEUX-3">
           <mxGeometry relative="1" as="geometry" />
@@ -40,8 +39,8 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221" y="620" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="30" width="80" height="40" as="geometry" />
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-37" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="20" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
