@@ -97,6 +97,9 @@
         <mxCell id="uvKXNKg3CXg_Leubk0M0-30" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="168" y="555" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uvKXNKg3CXg_Leubk0M0-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="438" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
