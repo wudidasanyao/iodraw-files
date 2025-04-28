@@ -23,10 +23,10 @@
           <mxGeometry x="342.5" y="1270" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-11" value="通过AT指令集发送短信/数据报文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="576" y="1289" width="246" height="66" as="geometry" />
+          <mxGeometry x="289.5" y="1363" width="246" height="66" as="geometry" />
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-12" value="发送成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="583" y="1429" width="119" height="119" as="geometry" />
+          <mxGeometry x="354.5" y="1488" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-13" value="结束当前发送周期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="437" y="1645" width="188" height="49" as="geometry" />
@@ -53,13 +53,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-11" target="tf_cHwgKxa5hmhAesZ0l-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="642" y="1380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-28" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-12" target="tf_cHwgKxa5hmhAesZ0l-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -78,14 +71,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="753" y="1718" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0.01;entryX=0.89;entryY=1;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-15" target="tf_cHwgKxa5hmhAesZ0l-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="866" y="1718" />
-              <mxPoint x="866" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
