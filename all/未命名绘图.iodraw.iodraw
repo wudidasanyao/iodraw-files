@@ -8,13 +8,13 @@
           <mxGeometry x="1380" y="989" width="559" height="902" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-2" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="761" y="940" width="92" height="49" as="geometry" />
+          <mxGeometry x="794" y="1050" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-3" value="初始化&#xa;操作" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="768" y="1039" width="78" height="66" as="geometry" />
+          <mxGeometry x="801" y="1150" width="78" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-4" value="配置超声&#xa;波传感器" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="760" y="1155" width="94" height="66" as="geometry" />
+          <mxGeometry x="793" y="1280" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-6" value="触发超声&#xa;波发射" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="795" y="1450" width="94" height="66" as="geometry" />
