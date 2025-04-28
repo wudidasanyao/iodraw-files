@@ -78,8 +78,8 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-52" value="检测按键输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368.5" y="750" width="81.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="860" width="95" height="40" as="geometry" />
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-53" value="处理按键交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="840" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
