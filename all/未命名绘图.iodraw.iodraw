@@ -28,7 +28,7 @@
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-7" value="开启自行车照明设备" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="402" y="1790" width="174" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="HZP_qGFGlTy_Es2Wc_xb-8" value="保持照明设备关闭" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="HZP_qGFGlTy_Es2Wc_xb-8" value="照明设备关闭" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="669" y="1790" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-11" value="结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
