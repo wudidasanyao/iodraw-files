@@ -10,13 +10,13 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-2" value="系统初始化" style="rounded=;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="236" y="129" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-3" value="进入主循环" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-3" value="进入主循环" style="arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="236" y="227" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-4" value="数据采集" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="241" y="326" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-5" value="数据处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-5" value="数据处理" style="arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="241" y="425" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-6" value="判断数据是否超出阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
