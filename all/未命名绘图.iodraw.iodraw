@@ -75,11 +75,8 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-48" value="更新显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="226" y="520" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-52" value="检测按键输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="750" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
