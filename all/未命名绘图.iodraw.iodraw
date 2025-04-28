@@ -16,11 +16,8 @@
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-4" value="配置显示模式&#xa;式、清屏" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="29" y="1110" width="222" height="133" as="geometry" />
         </mxCell>
-        <mxCell id="pxSN2EYsZc7bpZk_HVF3-5" value="主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="86" y="1400" width="108" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-6" value="从主控模块获&#xa;取骑行数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1499" width="239" height="239" as="geometry" />
+          <mxGeometry x="19.5" y="1284.5" width="230.5" height="115.5" as="geometry" />
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-7" value="数据处理与&#xa;格式转换" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="45" y="1788" width="188" height="49" as="geometry" />
@@ -43,16 +40,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pxSN2EYsZc7bpZk_HVF3-3" target="pxSN2EYsZc7bpZk_HVF3-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pxSN2EYsZc7bpZk_HVF3-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pxSN2EYsZc7bpZk_HVF3-4" target="pxSN2EYsZc7bpZk_HVF3-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pxSN2EYsZc7bpZk_HVF3-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pxSN2EYsZc7bpZk_HVF3-5" target="pxSN2EYsZc7bpZk_HVF3-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
