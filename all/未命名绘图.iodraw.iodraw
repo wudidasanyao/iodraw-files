@@ -90,8 +90,8 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.564;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-6" target="jVTnAEmhSE8E0OJqxEUX-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="640" width="60" height="30" as="geometry" />
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-58" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
