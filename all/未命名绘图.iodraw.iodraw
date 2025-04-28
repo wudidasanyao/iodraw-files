@@ -23,13 +23,13 @@
           <mxGeometry x="604" y="1330" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-9" value="对角速度数据&#xa;进行积分" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="530" y="1570" width="204" height="49" as="geometry" />
+          <mxGeometry x="604" y="1430" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-10" value="实现姿态&#xa;融合算法" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="546" y="1669" width="172" height="49" as="geometry" />
+          <mxGeometry x="617" y="1530" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-11" value="姿态超出安&#xa;全范围?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="607" y="1767" width="197" height="197" as="geometry" />
+          <mxGeometry x="604.5" y="1700" width="197" height="107" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-12" value="触发报警,&#xa;发送信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="617" y="2037" width="178" height="49" as="geometry" />
@@ -66,13 +66,6 @@
         <mxCell id="x5CqXyvgyqEQTlWHovOF-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-9" target="x5CqXyvgyqEQTlWHovOF-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x5CqXyvgyqEQTlWHovOF-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.2;entryY=0;rounded=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-10" target="x5CqXyvgyqEQTlWHovOF-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="632" y="1742" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-22" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-11" target="x5CqXyvgyqEQTlWHovOF-12">
