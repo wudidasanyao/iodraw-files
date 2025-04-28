@@ -34,6 +34,9 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-10" value="更新显示信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="373" y="795" width="126" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-11" target="jVTnAEmhSE8E0OJqxEUX-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-11" value="检测按键输入" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="893" width="145" height="145" as="geometry" />
         </mxCell>
