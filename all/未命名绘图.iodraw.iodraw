@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="X0k8w9PUEGi0QuBg8XmK">
-    <mxGraphModel dx="1790" dy="2255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2617" dy="2255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,6 +13,9 @@
         <mxCell id="uvKXNKg3CXg_Leubk0M0-3" value="配置霍尔传感器为中断模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="96" y="217" width="252" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="uvKXNKg3CXg_Leubk0M0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-4" target="uvKXNKg3CXg_Leubk0M0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-4" value="主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="168" y="316" width="108" height="49" as="geometry" />
         </mxCell>
@@ -20,7 +23,7 @@
           <mxGeometry x="162.5" y="420" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-6" value="继续循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="65" y="606" width="124" height="49" as="geometry" />
+          <mxGeometry y="450" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-7" value="计数器+1, 记录时间戳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="239" y="606" width="216" height="49" as="geometry" />
