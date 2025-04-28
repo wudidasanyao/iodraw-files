@@ -37,14 +37,17 @@
         <mxCell id="uvKXNKg3CXg_Leubk0M0-8" value="计算速度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="690" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="uvKXNKg3CXg_Leubk0M0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-9" target="uvKXNKg3CXg_Leubk0M0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-9" value="滑动平均滤波" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="144" y="780" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-10" value="速度&gt;安全阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="144" y="870" width="182" height="182" as="geometry" />
+          <mxGeometry x="131" y="870" width="182" height="182" as="geometry" />
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-11" value="触发报警, 发送信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="318" y="1180" width="199" height="49" as="geometry" />
+          <mxGeometry x="122.5" y="1110" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="372" y="1279" width="92" height="49" as="geometry" />
@@ -72,13 +75,6 @@
         <mxCell id="uvKXNKg3CXg_Leubk0M0-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-8" target="uvKXNKg3CXg_Leubk0M0-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uvKXNKg3CXg_Leubk0M0-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-9" target="uvKXNKg3CXg_Leubk0M0-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="346" y="900" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uvKXNKg3CXg_Leubk0M0-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uvKXNKg3CXg_Leubk0M0-10" target="uvKXNKg3CXg_Leubk0M0-11">
