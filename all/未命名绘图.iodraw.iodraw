@@ -25,9 +25,6 @@
         <mxCell id="20_lXz4FWRhDt1doqr_G-7" value="继续等待数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="779" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="20_lXz4FWRhDt1doqr_G-8" value="触发报警机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="226" y="779" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="20_lXz4FWRhDt1doqr_G-9" value="发送警报信息给家长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="202" y="877" width="204" height="49" as="geometry" />
         </mxCell>
@@ -49,16 +46,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="20_lXz4FWRhDt1doqr_G-18" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="20_lXz4FWRhDt1doqr_G-6" target="20_lXz4FWRhDt1doqr_G-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="304" y="742" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="20_lXz4FWRhDt1doqr_G-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="20_lXz4FWRhDt1doqr_G-8" target="20_lXz4FWRhDt1doqr_G-9">
+        <mxCell id="20_lXz4FWRhDt1doqr_G-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="20_lXz4FWRhDt1doqr_G-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="254" y="729" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="20_lXz4FWRhDt1doqr_G-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="20_lXz4FWRhDt1doqr_G-9" target="20_lXz4FWRhDt1doqr_G-10">
