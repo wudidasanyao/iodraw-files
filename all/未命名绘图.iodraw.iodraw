@@ -13,7 +13,7 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-3" value="进入主循环" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="236" y="227" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-4" value="数据采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-4" value="数据采集" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="241" y="326" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-5" value="数据处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
@@ -39,9 +39,6 @@
         </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221" y="620" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
