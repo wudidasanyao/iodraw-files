@@ -19,7 +19,7 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-6" target="jVTnAEmhSE8E0OJqxEUX-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-6">
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-6" target="jVTnAEmhSE8E0OJqxEUX-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="630" as="targetPoint" />
           </mxGeometry>
@@ -76,7 +76,7 @@
           <mxGeometry x="226" y="520" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-52" value="检测按键输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="368.5" y="750" width="90" height="40" as="geometry" />
+          <mxGeometry x="368.5" y="750" width="81.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
