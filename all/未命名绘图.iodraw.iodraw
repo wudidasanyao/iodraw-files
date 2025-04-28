@@ -50,13 +50,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-11" value="多次测量&#xa;取平均值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="796" y="2070" width="94" height="66" as="geometry" />
+          <mxGeometry x="793" y="2110" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-12" target="AL3Opk2ly5-EwqsYybYR-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-12" value="距离超限？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="802.5" y="2160" width="81" height="81" as="geometry" />
+          <mxGeometry x="802.5" y="2199" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-13" value="触发报警,&#xa;发送信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="793" y="2320" width="100" height="66" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="780" y="1798" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-41" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="800" y="2258" width="40" height="30" as="geometry" />
+          <mxGeometry x="797" y="2280" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-43" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="900" y="1698" width="40" height="30" as="geometry" />
