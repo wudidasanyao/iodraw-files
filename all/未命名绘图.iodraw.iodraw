@@ -22,6 +22,9 @@
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-7" value="构建数据帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="1270" width="140" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="tf_cHwgKxa5hmhAesZ0l-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-11" target="tf_cHwgKxa5hmhAesZ0l-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-11" value="通过AT指令集发送短信/数据报文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="289.5" y="1363" width="246" height="66" as="geometry" />
         </mxCell>
@@ -44,8 +47,8 @@
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-34" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="348" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="363" y="1470" width="120" height="60" as="geometry" />
+        <mxCell id="tf_cHwgKxa5hmhAesZ0l-36" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
