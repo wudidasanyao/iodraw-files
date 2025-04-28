@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="lvSw83He46f6tqopdc7m">
-    <mxGraphModel dx="2617" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1850" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,13 +20,10 @@
           <mxGeometry x="146.5" y="1360" width="181" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-12" value="周期性检测输出电压" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="146.5" y="1580" width="174" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-14" value="切断相关电源输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="146.5" y="1670" width="188" height="49" as="geometry" />
+          <mxGeometry x="146.5" y="1450" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-17" value="结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="210" y="1760" width="62" height="49" as="geometry" />
+          <mxGeometry x="202.5" y="1620" width="62" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-2" target="wzzbIjbFynQ9duI6u01I-3">
           <mxGeometry relative="1" as="geometry">
@@ -42,18 +39,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="236.5" y="1356" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="237" y="1460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="wzzbIjbFynQ9duI6u01I-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="237" y="1509" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
