@@ -31,6 +31,10 @@
         <mxCell id="AL3Opk2ly5-EwqsYybYR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="843" y="2411.2260910560344" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="843" y="2140" />
+              <mxPoint x="843" y="2140" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-8" value="接收到反&#xa;射波?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
