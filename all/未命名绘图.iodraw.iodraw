@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-8" value="接收到反&#xa;射波?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1710" width="130" height="130" as="geometry" />
+          <mxGeometry x="778" y="1700" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-9" value="读取定时&#xa;器计数值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="796" y="1891" width="94" height="66" as="geometry" />
@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-39" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1798" width="40" height="30" as="geometry" />
+          <mxGeometry x="797" y="1850" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-41" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="797" y="2280" width="40" height="30" as="geometry" />
