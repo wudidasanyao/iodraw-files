@@ -23,13 +23,7 @@
           <mxGeometry x="46" y="1480" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-8" value="更新OLED&#xa;显示内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="36" y="1887" width="208" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="pxSN2EYsZc7bpZk_HVF3-9" value="需要调节&#xa;亮度？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="52" y="2008" width="175" height="175" as="geometry" />
-        </mxCell>
-        <mxCell id="pxSN2EYsZc7bpZk_HVF3-10" value="自动调&#xa;节亮度" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="69" y="2256" width="140" height="49" as="geometry" />
+          <mxGeometry x="35" y="1590" width="208" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="94" y="2355" width="92" height="49" as="geometry" />
@@ -50,30 +44,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pxSN2EYsZc7bpZk_HVF3-7" target="pxSN2EYsZc7bpZk_HVF3-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pxSN2EYsZc7bpZk_HVF3-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0.99;entryX=0.44;entryY=0;rounded=0;" edge="1" parent="1" source="pxSN2EYsZc7bpZk_HVF3-8" target="pxSN2EYsZc7bpZk_HVF3-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="125" y="1972" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pxSN2EYsZc7bpZk_HVF3-19" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pxSN2EYsZc7bpZk_HVF3-9" target="pxSN2EYsZc7bpZk_HVF3-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pxSN2EYsZc7bpZk_HVF3-20" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0;entryX=0.53;entryY=0.99;rounded=0;" edge="1" parent="1" source="pxSN2EYsZc7bpZk_HVF3-9" target="pxSN2EYsZc7bpZk_HVF3-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="155" y="1972" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pxSN2EYsZc7bpZk_HVF3-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pxSN2EYsZc7bpZk_HVF3-10" target="pxSN2EYsZc7bpZk_HVF3-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
