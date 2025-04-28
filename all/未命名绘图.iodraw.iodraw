@@ -18,7 +18,12 @@
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350.0000000000002" y="800" as="targetPoint" />
+            <mxPoint x="180" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="570" />
+              <mxPoint x="181" y="570" />
+              <mxPoint x="181" y="800" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-37" value="超出安全阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
