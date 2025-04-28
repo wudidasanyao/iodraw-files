@@ -26,19 +26,19 @@
           <mxGeometry x="604" y="1430" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-10" value="实现姿态&#xa;融合算法" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="617" y="1530" width="172" height="49" as="geometry" />
+          <mxGeometry x="620" y="1520" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-11" target="x5CqXyvgyqEQTlWHovOF-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-11" value="姿态超出安&#xa;全范围?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="604.5" y="1610" width="197" height="107" as="geometry" />
+          <mxGeometry x="611" y="1600" width="197" height="107" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-12" value="触发报警,&#xa;发送信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="614" y="1770" width="178" height="49" as="geometry" />
+          <mxGeometry x="620" y="1754" width="178" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-13" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="657" y="1850" width="92" height="49" as="geometry" />
+          <mxGeometry x="663.5" y="1840" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5CqXyvgyqEQTlWHovOF-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="x5CqXyvgyqEQTlWHovOF-3" target="x5CqXyvgyqEQTlWHovOF-4">
           <mxGeometry relative="1" as="geometry">
