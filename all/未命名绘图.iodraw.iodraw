@@ -25,21 +25,6 @@
         <mxCell id="wzzbIjbFynQ9duI6u01I-12" value="周期性检测输出电压" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="146.5" y="1580" width="174" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-13" value="电压异常?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="356" y="2242" width="119" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-14" value="切断相关电源输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="322" y="2434" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-15" value="保护系统硬件" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="353" y="2532" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-16" value="继续循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="2631" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-17" value="结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="385" y="2730" width="62" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-2" target="wzzbIjbFynQ9duI6u01I-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -62,28 +47,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wzzbIjbFynQ9duI6u01I-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-11" target="wzzbIjbFynQ9duI6u01I-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.1;entryY=0;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-12" target="wzzbIjbFynQ9duI6u01I-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="347" y="2217" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-14" target="wzzbIjbFynQ9duI6u01I-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-15" target="wzzbIjbFynQ9duI6u01I-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wzzbIjbFynQ9duI6u01I-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="wzzbIjbFynQ9duI6u01I-16" target="wzzbIjbFynQ9duI6u01I-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
