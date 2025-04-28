@@ -26,13 +26,7 @@
           <mxGeometry x="289.5" y="1363" width="246" height="66" as="geometry" />
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-12" value="发送成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="354.5" y="1488" width="119" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-13" value="结束当前发送周期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="437" y="1645" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-14" value="启动重试机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="675" y="1645" width="156" height="49" as="geometry" />
+          <mxGeometry x="354" y="1450" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-15" value="等待预设间隔时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="716" y="1743" width="188" height="49" as="geometry" />
@@ -53,25 +47,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-28" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-12" target="tf_cHwgKxa5hmhAesZ0l-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="531" y="1608" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-29" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-12" target="tf_cHwgKxa5hmhAesZ0l-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="753" y="1608" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.35;entryY=0.01;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-14" target="tf_cHwgKxa5hmhAesZ0l-15">
+        <mxCell id="tf_cHwgKxa5hmhAesZ0l-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.35;entryY=0.01;rounded=0;" edge="1" parent="1" target="tf_cHwgKxa5hmhAesZ0l-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="753" y="1718" />
             </Array>
+            <mxPoint x="753" y="1694" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-34" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
