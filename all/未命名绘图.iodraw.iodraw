@@ -19,11 +19,6 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-6" target="jVTnAEmhSE8E0OJqxEUX-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="409.28" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-6" value="判断数据是否超出阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="196.75" y="630" width="158.5" height="84" as="geometry" />
         </mxCell>
@@ -75,14 +70,22 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-48" value="更新显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="226" y="520" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-53" value="处理按键交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="860" width="80" height="40" as="geometry" />
+          <mxGeometry x="370" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-54" target="jVTnAEmhSE8E0OJqxEUX-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-54" value="按键按下？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="750" width="80" height="80" as="geometry" />
+          <mxGeometry x="370" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.564;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jVTnAEmhSE8E0OJqxEUX-6" target="jVTnAEmhSE8E0OJqxEUX-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
