@@ -28,6 +28,11 @@
         <mxCell id="AL3Opk2ly5-EwqsYybYR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-8" target="AL3Opk2ly5-EwqsYybYR-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AL3Opk2ly5-EwqsYybYR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="843" y="2411.2260910560344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-8" value="接收到反&#xa;射波?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="778" y="1680" width="130" height="130" as="geometry" />
         </mxCell>
