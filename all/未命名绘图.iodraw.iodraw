@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="f4R4A1L1ZwmPufUfnjWo">
-    <mxGraphModel dx="2557" dy="1551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="852" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,19 +38,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-8" value="接收到反&#xa;射波?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="778" y="1680" width="130" height="130" as="geometry" />
+          <mxGeometry x="780" y="1710" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-9" value="读取定时&#xa;器计数值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="796" y="1850" width="94" height="66" as="geometry" />
+          <mxGeometry x="796" y="1891" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-10" value="计算距&#xa;离" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="804" y="1960" width="78" height="66" as="geometry" />
+          <mxGeometry x="802.5" y="2000" width="78" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-11" target="AL3Opk2ly5-EwqsYybYR-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-11" value="多次测量&#xa;取平均值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="793" y="2110" width="94" height="66" as="geometry" />
+          <mxGeometry x="794.5" y="2100" width="94" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AL3Opk2ly5-EwqsYybYR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AL3Opk2ly5-EwqsYybYR-12" target="AL3Opk2ly5-EwqsYybYR-13">
           <mxGeometry relative="1" as="geometry" />
