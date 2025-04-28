@@ -14,16 +14,10 @@
           <mxGeometry x="282" y="1056" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-6" value="发送心跳包" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="106" y="1298" width="140" height="49" as="geometry" />
+          <mxGeometry x="210" y="1499" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-7" value="构建数据帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="629" y="1190" width="140" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-9" value="继续等待主控单片机数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="143" y="1743" width="236" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-10" value="记录错误，调整心跳包策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="135" y="1645" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-11" value="通过AT指令集发送短信/数据报文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="576" y="1289" width="246" height="66" as="geometry" />
@@ -60,15 +54,12 @@
             <mxPoint x="408.5" y="1172" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-6">
+        <mxCell id="tf_cHwgKxa5hmhAesZ0l-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-6">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="175.5" y="1405" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-10" target="tf_cHwgKxa5hmhAesZ0l-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="290" y="1630" />
+            </Array>
+            <mxPoint x="270" y="1630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-7" target="tf_cHwgKxa5hmhAesZ0l-11">
@@ -112,16 +103,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.07;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-13" target="tf_cHwgKxa5hmhAesZ0l-9">
+        <mxCell id="tf_cHwgKxa5hmhAesZ0l-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.07;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="531" y="1718" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tf_cHwgKxa5hmhAesZ0l-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="tf_cHwgKxa5hmhAesZ0l-9" target="tf_cHwgKxa5hmhAesZ0l-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="379" y="1746.4299999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tf_cHwgKxa5hmhAesZ0l-34" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
