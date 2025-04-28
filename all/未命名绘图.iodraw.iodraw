@@ -63,8 +63,8 @@
         <mxCell id="jVTnAEmhSE8E0OJqxEUX-46" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="590" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jVTnAEmhSE8E0OJqxEUX-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="670" width="100" height="40" as="geometry" />
+        <mxCell id="jVTnAEmhSE8E0OJqxEUX-48" value="更新显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="630" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
