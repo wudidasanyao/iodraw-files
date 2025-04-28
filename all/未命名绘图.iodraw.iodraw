@@ -10,6 +10,9 @@
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-2" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="94" y="930" width="92" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="pxSN2EYsZc7bpZk_HVF3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxSN2EYsZc7bpZk_HVF3-3" target="pxSN2EYsZc7bpZk_HVF3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-3" value="初始化OLED显示屏" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="58" y="1029" width="163" height="49" as="geometry" />
         </mxCell>
@@ -17,13 +20,13 @@
           <mxGeometry x="24.75" y="1150" width="230.5" height="115.5" as="geometry" />
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-7" value="数据处理与&#xa;格式转换" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="46" y="1480" width="188" height="49" as="geometry" />
+          <mxGeometry x="46" y="1320" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-8" value="更新OLED&#xa;显示内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="35" y="1590" width="208" height="49" as="geometry" />
+          <mxGeometry x="36" y="1450" width="208" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="94" y="1700" width="92" height="49" as="geometry" />
+          <mxGeometry x="100" y="1540" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pxSN2EYsZc7bpZk_HVF3-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pxSN2EYsZc7bpZk_HVF3-2" target="pxSN2EYsZc7bpZk_HVF3-3">
           <mxGeometry relative="1" as="geometry">
