@@ -26,16 +26,13 @@
           <mxGeometry x="394" y="1570" width="206" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-7" value="开启自行车照明设备" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="442" y="1830" width="174" height="49" as="geometry" />
+          <mxGeometry x="402" y="1790" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-8" value="保持照明设备关闭" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="750" y="1705" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="HZP_qGFGlTy_Es2Wc_xb-10" value="检测是否有新的亮度变化" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="385" y="2133" width="225" height="225" as="geometry" />
+          <mxGeometry x="669" y="1790" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-11" value="结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="466" y="2430" width="62" height="49" as="geometry" />
+          <mxGeometry x="458" y="1890" width="62" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="HZP_qGFGlTy_Es2Wc_xb-2" target="HZP_qGFGlTy_Es2Wc_xb-3">
           <mxGeometry relative="1" as="geometry">
@@ -48,11 +45,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HZP_qGFGlTy_Es2Wc_xb-5" target="HZP_qGFGlTy_Es2Wc_xb-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HZP_qGFGlTy_Es2Wc_xb-22" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="HZP_qGFGlTy_Es2Wc_xb-10" target="HZP_qGFGlTy_Es2Wc_xb-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
