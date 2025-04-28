@@ -20,7 +20,7 @@
           <mxGeometry x="414" y="1500" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-6" value="判断数字值是否低于亮度阈值" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="286" y="1605" width="258" height="258" as="geometry" />
+          <mxGeometry x="364" y="1590" width="206" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-7" value="开启自行车照明设备" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="220" y="1936" width="174" height="49" as="geometry" />
@@ -45,13 +45,6 @@
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="HZP_qGFGlTy_Es2Wc_xb-3" target="HZP_qGFGlTy_Es2Wc_xb-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HZP_qGFGlTy_Es2Wc_xb-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HZP_qGFGlTy_Es2Wc_xb-4" target="HZP_qGFGlTy_Es2Wc_xb-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="415" y="1481" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HZP_qGFGlTy_Es2Wc_xb-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HZP_qGFGlTy_Es2Wc_xb-5" target="HZP_qGFGlTy_Es2Wc_xb-6">
